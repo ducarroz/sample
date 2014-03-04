@@ -1,0 +1,15 @@
+{
+    "name": "test-events",
+    "version": "0.1.0",
+    "dependencies": {
+        "montage": "git://github.com/montagejs/montage.git#892cf7a3627dd118f2d2de7c8e20a13bb42b29ba",
+        "digit": "~0.3.1"
+    },
+    "devDependencies": {
+        "montage-testing": "0.2.0"
+    },
+    "exclude": [
+        "run-tests.html",
+        "test"
+    ]
+}
