@@ -1,4 +1,4 @@
-{{name}}
+Remotely changed!
 ==============
 
 This is the Montage app template.
